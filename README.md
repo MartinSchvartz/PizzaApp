@@ -1,1 +1,1 @@
-# PizzaApp
+# Recipe App
